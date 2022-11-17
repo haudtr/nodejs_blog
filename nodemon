@@ -1,0 +1,3 @@
+dùng để tự nạp lại mã code không cần dừng server
+
+npm i nodemon --save-dev
