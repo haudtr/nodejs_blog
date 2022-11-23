@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/haudtr/nodejs_blog#readme",
   "lint-staged":{
-    "src/**/*.{js,json,scss}":"prettier --single-quote --trailing-comma all --write"
+    "src/**/*.{js,json,scss}":"prettier --single-quote --trailing-comma all --tab-write 4 --write"
   },
   "husky":{
     "hooks":{
